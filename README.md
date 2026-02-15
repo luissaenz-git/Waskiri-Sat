@@ -1,2 +1,2 @@
-# waskiri-sat
+# Waskiri-Sat
 First Bolivian Nanosatellite
