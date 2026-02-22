@@ -30,7 +30,7 @@ It is designed for Proteus to validate logic, modes, GPIO control, UART interact
 
 Type commands in Virtual Terminal #2 according to ICD Transceiver commands.
 
-| Command | Meaning | What you should observe |
+| Command | Meaning | It shows |
 | :--- | :--- | :--- |
 | **HELP** | Print help menu | Help text on CONFIG terminal |
 | **RON** | RF output ON (enable TX) | PB8 goes HIGH; status reports RON |
